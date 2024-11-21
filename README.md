@@ -14,15 +14,6 @@ This project is developed as part of the **Naan Mudhalvan MERN Stack with MongoD
 - **Languages:** JavaScript  
 
 
-## **Usage**  
-1. Open your browser and go to `http://localhost:3000`.  
-2. Register or log in to start browsing and ordering food.  
-
----
-
-
----
-
 ## **Contact**  
 For questions or feedback, contact:  
 - **Name:** Gem  

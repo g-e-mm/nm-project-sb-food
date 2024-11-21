@@ -1,7 +1,3 @@
-Here's a tailored `README.md` for your **SB Food Ordering Application** project:
-
----
-
 # **SB Food Ordering Application**  
 An intuitive food ordering platform built using the MERN stack (MongoDB, Express.js, React.js, Node.js).
 
